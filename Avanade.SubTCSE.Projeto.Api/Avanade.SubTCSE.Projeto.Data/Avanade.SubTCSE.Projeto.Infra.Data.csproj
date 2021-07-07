@@ -8,9 +8,4 @@
     <ProjectReference Include="..\Avanade.SubTCSE.Projeto.Domain\Avanade.SubTCSE.Projeto.Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Repositories\Employee\" />
-    <Folder Include="Repositories\EmployeeRole\" />
-  </ItemGroup>
-
 </Project>

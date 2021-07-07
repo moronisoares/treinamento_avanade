@@ -1,0 +1,15 @@
+C:\Projetos\API Treinamento Avanade\treinamento_avanade\Avanade.SubTCSE.Projeto.Api\Avanade.SubTCSE.Projeto.Data\bin\Debug\net5.0\Avanade.SubTCSE.Projeto.Infra.Data.deps.json
+C:\Projetos\API Treinamento Avanade\treinamento_avanade\Avanade.SubTCSE.Projeto.Api\Avanade.SubTCSE.Projeto.Data\bin\Debug\net5.0\Avanade.SubTCSE.Projeto.Infra.Data.dll
+C:\Projetos\API Treinamento Avanade\treinamento_avanade\Avanade.SubTCSE.Projeto.Api\Avanade.SubTCSE.Projeto.Data\bin\Debug\net5.0\ref\Avanade.SubTCSE.Projeto.Infra.Data.dll
+C:\Projetos\API Treinamento Avanade\treinamento_avanade\Avanade.SubTCSE.Projeto.Api\Avanade.SubTCSE.Projeto.Data\bin\Debug\net5.0\Avanade.SubTCSE.Projeto.Infra.Data.pdb
+C:\Projetos\API Treinamento Avanade\treinamento_avanade\Avanade.SubTCSE.Projeto.Api\Avanade.SubTCSE.Projeto.Data\bin\Debug\net5.0\Avanade.SubTCSE.Projeto.Domain.dll
+C:\Projetos\API Treinamento Avanade\treinamento_avanade\Avanade.SubTCSE.Projeto.Api\Avanade.SubTCSE.Projeto.Data\bin\Debug\net5.0\Avanade.SubTCSE.Projeto.Domain.pdb
+C:\Projetos\API Treinamento Avanade\treinamento_avanade\Avanade.SubTCSE.Projeto.Api\Avanade.SubTCSE.Projeto.Data\obj\Debug\net5.0\Avanade.SubTCSE.Projeto.Infra.Data.csprojAssemblyReference.cache
+C:\Projetos\API Treinamento Avanade\treinamento_avanade\Avanade.SubTCSE.Projeto.Api\Avanade.SubTCSE.Projeto.Data\obj\Debug\net5.0\Avanade.SubTCSE.Projeto.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\API Treinamento Avanade\treinamento_avanade\Avanade.SubTCSE.Projeto.Api\Avanade.SubTCSE.Projeto.Data\obj\Debug\net5.0\Avanade.SubTCSE.Projeto.Infra.Data.AssemblyInfoInputs.cache
+C:\Projetos\API Treinamento Avanade\treinamento_avanade\Avanade.SubTCSE.Projeto.Api\Avanade.SubTCSE.Projeto.Data\obj\Debug\net5.0\Avanade.SubTCSE.Projeto.Infra.Data.AssemblyInfo.cs
+C:\Projetos\API Treinamento Avanade\treinamento_avanade\Avanade.SubTCSE.Projeto.Api\Avanade.SubTCSE.Projeto.Data\obj\Debug\net5.0\Avanade.SubTCSE.Projeto.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Projetos\API Treinamento Avanade\treinamento_avanade\Avanade.SubTCSE.Projeto.Api\Avanade.SubTCSE.Projeto.Data\obj\Debug\net5.0\Avanade.SubTCSE.Projeto.Infra.Data.csproj.CopyComplete
+C:\Projetos\API Treinamento Avanade\treinamento_avanade\Avanade.SubTCSE.Projeto.Api\Avanade.SubTCSE.Projeto.Data\obj\Debug\net5.0\Avanade.SubTCSE.Projeto.Infra.Data.dll
+C:\Projetos\API Treinamento Avanade\treinamento_avanade\Avanade.SubTCSE.Projeto.Api\Avanade.SubTCSE.Projeto.Data\obj\Debug\net5.0\ref\Avanade.SubTCSE.Projeto.Infra.Data.dll
+C:\Projetos\API Treinamento Avanade\treinamento_avanade\Avanade.SubTCSE.Projeto.Api\Avanade.SubTCSE.Projeto.Data\obj\Debug\net5.0\Avanade.SubTCSE.Projeto.Infra.Data.pdb
