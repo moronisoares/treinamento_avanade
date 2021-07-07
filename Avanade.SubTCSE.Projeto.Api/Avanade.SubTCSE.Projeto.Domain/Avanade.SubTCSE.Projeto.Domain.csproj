@@ -5,12 +5,18 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Aggregates\Employee\ValueObject\**" />
+    <EmbeddedResource Remove="Aggregates\Employee\ValueObject\**" />
+    <None Remove="Aggregates\Employee\ValueObject\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="Aggregates\EmployeeRole\Interfaces\Services\" />
-    <Folder Include="Aggregates\Employee\ValueObject\" />
   </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="FluentValidation" Version="10.2.3" />
+    <PackageReference Include="MongoDB.Driver" Version="2.12.4" />
   </ItemGroup>
 
 </Project>

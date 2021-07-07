@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Avanade.SubTCSE.Projeto.Domain/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/Avanade.SubTCSE.Projeto.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Avanade.SubTCSE.Projeto.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Avanade.SubTCSE.Projeto.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Avanade.SubTCSE.Projeto.Domain/Avanade.SubTCSE.Projeto.Domain.csproj",
+      "msbuildProject": "../Avanade.SubTCSE.Projeto.Domain/Avanade.SubTCSE.Projeto.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Avanade.SubTCSE.Projeto.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\bepat\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Projetos\\API Treinamento Avanade\\treinamento_avanade\\Avanade.SubTCSE.Projeto.Api\\Avanade.SubTCSE.Projeto.Infra.Data\\Avanade.SubTCSE.Projeto.Infra.Data.csproj",
+      "projectName": "Avanade.SubTCSE.Projeto.Infra.Data",
+      "projectPath": "C:\\Projetos\\API Treinamento Avanade\\treinamento_avanade\\Avanade.SubTCSE.Projeto.Api\\Avanade.SubTCSE.Projeto.Infra.Data\\Avanade.SubTCSE.Projeto.Infra.Data.csproj",
+      "packagesPath": "C:\\Users\\bepat\\.nuget\\packages\\",
+      "outputPath": "C:\\Projetos\\API Treinamento Avanade\\treinamento_avanade\\Avanade.SubTCSE.Projeto.Api\\Avanade.SubTCSE.Projeto.Infra.Data\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\bepat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Projetos\\API Treinamento Avanade\\treinamento_avanade\\Avanade.SubTCSE.Projeto.Api\\Avanade.SubTCSE.Projeto.Domain\\Avanade.SubTCSE.Projeto.Domain.csproj": {
+              "projectPath": "C:\\Projetos\\API Treinamento Avanade\\treinamento_avanade\\Avanade.SubTCSE.Projeto.Api\\Avanade.SubTCSE.Projeto.Domain\\Avanade.SubTCSE.Projeto.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "O projeto Avanade.SubTCSE.Projeto.Domain não é compatível com netcoreapp3.1 (.NETCoreApp,Version=v3.1). O projeto Avanade.SubTCSE.Projeto.Domain dá suporte a: net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "Avanade.SubTCSE.Projeto.Domain",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

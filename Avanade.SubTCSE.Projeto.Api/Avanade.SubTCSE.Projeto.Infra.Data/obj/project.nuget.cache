@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "RfGICWmwH0kL9PnP6xLhE2oOvKcUZCKRyHu9rw8jCwQrE3k/JqvTurcF84fUq4776D3pie78WwDwQO7y7tI7zQ==",
+  "success": false,
+  "projectFilePath": "C:\\Projetos\\API Treinamento Avanade\\treinamento_avanade\\Avanade.SubTCSE.Projeto.Api\\Avanade.SubTCSE.Projeto.Infra.Data\\Avanade.SubTCSE.Projeto.Infra.Data.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "O projeto Avanade.SubTCSE.Projeto.Domain não é compatível com netcoreapp3.1 (.NETCoreApp,Version=v3.1). O projeto Avanade.SubTCSE.Projeto.Domain dá suporte a: net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "Avanade.SubTCSE.Projeto.Domain",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
